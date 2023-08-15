@@ -12,3 +12,15 @@ body {
   height: 100vh;
   font-weight: 400;
 }
+
+/* app.jsx */
+
+.wrapper {
+  width: 100%;
+  padding: 8rem 20px 3rem;
+}
+
+.todos {
+  max-width: 580px;
+  margin: 0 auto;
+}
