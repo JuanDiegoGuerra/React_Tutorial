@@ -19,7 +19,7 @@
     "react/react-in-jsx-scope": "off",
     "import/no-unresolved": "off",
     "no-shadow": "off",
-    "react/jsx-no-bind": "off"
+    "react/forbid-prop-types": "off"
   },
   "overrides": [
     {
