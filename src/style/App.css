@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.4;
+  color: #000;
+  background: #fff;
+  height: 100vh;
+  font-weight: 400;
+}
+
+/* app.jsx */
+
+.wrapper {
+  width: 100%;
+  padding: 8rem 20px 3rem;
+}
+
+.todos {
+  max-width: 580px;
+  margin: 0 auto;
+}
